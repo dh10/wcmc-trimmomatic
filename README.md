@@ -3,7 +3,7 @@
 ## **Trimmomatic-0.33a**
 
 **Duane C. Hassane, Ph.D.**
-** Weill Cornell Medical College, New York NY **
+**Weill Cornell Medical College, New York NY**
 
 [Hassane Lab, http://drduanehassane.com/blog](http://drduanehassane.com/blog)
 
