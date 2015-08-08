@@ -1,8 +1,9 @@
 # wcmc-trimmomatic
 
-## Trimmomatic-0.33a
-### Duane C. Hassane, Ph.D.
-### Weill Cornell Medical College, New York NY
+## **Trimmomatic-0.33a**
+
+**Duane C. Hassane, Ph.D.**
+** Weill Cornell Medical College, New York NY **
 
 [Hassane Lab, http://drduanehassane.com/blog](http://drduanehassane.com/blog)
 
